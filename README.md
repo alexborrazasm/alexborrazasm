@@ -8,7 +8,7 @@
 I'm a **Computer Engineering student** at **UDC** (Universidade da Coruña), passionate about low-level systems, cloud infrastructure, and building scalable applications.
 
 - 🔭 **Currently working on:** Personal projects & system automation.
-- 🌱 **Learning journey:** Mastering `C++`, `Django`, `PyTorch`, `ESP32` and `Terraform`.
+- 🎯 **Focus:** Building high-performance systems with C++, automating infrastructure with Terraform and exploring Deep Learning with PyTorch.
 - 👯 **Collaboration:** Open to contributing to **Open Source** projects.
 - 🌐 **Portfolio:** [alexborrazasm.dev](https://alexborrazasm.dev/)
 
@@ -51,7 +51,7 @@ I'm a **Computer Engineering student** at **UDC** (Universidade da Coruña), pas
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
