@@ -12,8 +12,6 @@ I'm a **Computer Engineering student** at **UDC** (Universidade da Coruña), pas
 - 👯 **Collaboration:** Open to contributing to **Open Source** projects.
 - 🌐 **Portfolio:** [alexborrazasm.dev](https://alexborrazasm.dev/)
 
----
-
 ### 🏆 Achievements
 
 <div align="center">
