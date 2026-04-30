@@ -16,7 +16,7 @@ I'm a **Computer Engineering student** at **UDC** (Universidade da Coruña), pas
 
 <div align="center">
   <a href="https://github.com/alexborrazasm">
-    <img src="https://github-profile-trophy-kannan.vercel.app/?username=alexborrazasm&column=6&theme=darkhub&margin-w=15&title=MultipleLang,Commits,Followers,Repositories,Stars,PullRequest" alt="GitHub Trophies" />
+    <img src="https://trophygh.kolioaris.xyz/?username=alexborrazasm&column=6&theme=darkhub&margin-w=15&title=MultipleLang,Commits,Followers,Repositories,Stars,PullRequest" alt="GitHub Trophies" />
   </a>
 </div>
 
